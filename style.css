@@ -1,0 +1,16 @@
+h1, p {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fee6df;
+    color: #96361c;
+    padding: 30px;
+}
+h1, .temp {
+    font-weight: bolder;
+}
